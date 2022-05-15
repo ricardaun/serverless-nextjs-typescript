@@ -1,0 +1,4 @@
+myApp:
+  component: "@sls-next/serverless-component@3.7.0"
+  inputs:
+    # domain: www.serverless-nextjs.com # Register this on AWS Route53 first
